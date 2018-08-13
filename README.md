@@ -1,4 +1,5 @@
 # devops-aula02
 #Jessica Lange
-#Vera Farmiga
+#Paola Oliveira
 #Viola Davis
+#Fera Farmiga
